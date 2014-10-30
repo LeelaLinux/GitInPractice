@@ -1,4 +1,5 @@
 \n adding more text to this file
+this is the practice file
 appending a new line of text
 Adding another change, more for a merget test.
 
