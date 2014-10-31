@@ -4,3 +4,5 @@ appending a new line of text
 Adding another change, more for a merget test.
 
 adding more random text.
+
+Change added in Chapter #2 branch.
